@@ -1,0 +1,410 @@
+@media (max-width: 1500px) {
+  .header {
+    height: 90vh;
+  }
+  .header__inner {
+    width: 435px;
+    height: 435px;
+  }
+  .header__sale {
+    margin-top: 6px;
+  }
+}
+
+@media (max-width: 1280px) {
+  .header {
+    height: 80vh;
+  }
+  .header__inner {
+    width: 360px;
+    height: 360px;
+  }
+  .header__name {
+    font-size: 34px;
+  }
+  .phone {
+    font-size: 32px;
+  }
+  .header__title {
+    font-size: 34px;
+  }
+  .header__sale img {
+    width: 220px;
+  }
+}
+
+@media (max-width: 1070px) {
+  .header {
+    height: 70vh;
+  }
+  .header__sale {
+    margin-top: 2px;
+  }
+  .header__inner {
+    width: 310px;
+    height: 310px;
+  }
+  .header__name {
+    font-size: 26px;
+  }
+  .phone {
+    font-size: 26px;
+  }
+  .header__title {
+    font-size: 30px;
+  }
+  .header__sale img {
+    width: 178px;
+  }
+  .project__images-item img {
+    width: 900px;
+  }
+}
+@media (max-width: 1030px) {
+  .gallery__inner {
+    justify-content: space-between;
+  }
+  .gallery__inner a {
+    padding: 15px 15px;
+  }
+  .project__images-item img {
+    width: 880px;
+  }
+}
+
+@media (max-width: 920px) {
+  .header {
+    height: 55vh;
+  }
+  .header__inner {
+    margin-left: 35px;
+  }
+  .phone {
+    margin-bottom: 25px;
+  }
+  .header__title {
+    font-size: 27px;
+  }
+  .project__images-item img {
+    width: 780px;
+  }
+  .main__title {
+    padding-top: 60px;
+  }
+}
+@media (max-width: 870px) {
+  .gallery__inner {
+    justify-content: center;
+  }
+  .gallery__inner a {
+    padding: 25px 32px;
+  }
+}
+@media (max-width: 828px) {
+  .project__images-item img {
+    width: 740px;
+  }
+}
+@media (max-width: 780px) {
+  .header {
+    height: 45vh;
+  }
+  .header__inner {
+    width: 240px;
+    height: 240px;
+  }
+  .header__name {
+    font-size: 22px;
+    padding-top: 4px;
+  }
+  .phone {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+  .header__title {
+    font-size: 24px;
+  }
+  .header__sale img {
+    width: 145px;
+  }
+  .main__title {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .main__text-name {
+    font-size: 26px;
+    margin-bottom: 20px;
+  }
+  .main__text-op {
+    font-size: 28px;
+  }
+  .main__text-gar {
+    font-size: 24px;
+    margin-bottom: 36px;
+  }
+  .main__text-garant {
+    font-size: 27px;
+  }
+  .main__img {
+    padding: 30px 0;
+  }
+  .main__img img {
+    width: 148px;
+  }
+  .project__images-item img {
+    width: 630px;
+  }
+}
+@media (max-width: 680px) {
+  .project__images-item img {
+    width: 600px;
+  }
+}
+
+@media (max-width: 660px) {
+  .header {
+    height: 40vh;
+    padding-top: 35px;
+  }
+  .project__title {
+    font-size: 36px;
+    margin-bottom: 50px;
+  }
+  .project__name {
+    font-size: 26px;
+  }
+  .project__size,
+  .project__area {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .project__price {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .project__images-item img {
+    width: 535px;
+  }
+  .download__link a {
+    font-size: 22px;
+  }
+  .download {
+    padding: 12px 0;
+  }
+  .gallery__title {
+    font-size: 36px;
+    padding-bottom: 16px;
+  }
+  .gallery__inner a {
+    padding: 15px 7px;
+  }
+}
+@media (max-width: 585px) {
+  .project__images-item img {
+    width: 500px;
+  }
+}
+@media (max-width: 570px) {
+  .header {
+    height: 30vh;
+    padding-top: 15px;
+  }
+  .header__inner {
+    width: 210px;
+    height: 210px;
+  }
+  .header__inner img {
+    width: 32px;
+  }
+  .header__name {
+    font-size: 20px;
+    padding-top: 0px;
+    margin-bottom: 10px;
+  }
+  .phone {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .header__title {
+    font-size: 20px;
+  }
+  .header__sale img {
+    width: 125px;
+  }
+  .main {
+    padding-top: 30px;
+  }
+  .main__title {
+    font-size: 25px;
+    padding-top: 90px;
+  }
+  .main__text-name {
+    font-size: 21px;
+    margin-bottom: 15px;
+  }
+  .main__text-op {
+    font-size: 22px;
+  }
+  .main__text-gar {
+    font-size: 21px;
+    margin-bottom: 22px;
+  }
+  .main__text-garant {
+    font-size: 21px;
+  }
+  .project__title {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+  .project__name {
+    font-size: 22px;
+  }
+  .project__images-item img {
+    width: 400px;
+  }
+  .download {
+    padding: 3px 0;
+  }
+  .download img {
+    width: 270px;
+  }
+  .download__link a {
+    font-size: 16px;
+  }
+  .gallery__title {
+    font-size: 30px;
+    padding-top: 65px;
+  }
+  .gallery__text {
+    font-size: 21px;
+    padding-bottom: 15px;
+  }
+}
+@media (max-width: 555px) {
+  .gallery__inner img {
+    width: 100vh;
+    max-width: 75%;
+    display: inline-block;
+  }
+}
+@media (max-width: 445px) {
+  .project__images-item img {
+    width: 380px;
+  }
+}
+@media (max-width: 425px) {
+  .header {
+    height: 25vh;
+    padding-top: 7px;
+  }
+  .header__inner {
+    width: 185px;
+    height: 185px;
+  }
+  .header__inner img {
+    width: 28px;
+  }
+  .header__name {
+    font-size: 16px;
+    margin-bottom: 6px;
+  }
+  .phone {
+    font-size: 16px;
+    margin-bottom: 7px;
+  }
+  .header__title {
+    font-size: 18px;
+  }
+  .header__sale img {
+    width: 90px;
+  }
+  .main__title {
+    font-size: 20px;
+    margin-bottom: 14px;
+    padding-top: 65px;
+  }
+  .main__text-name {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .main__text-op {
+    font-size: 17px;
+    line-height: 27px;
+  }
+  .main__text-gar {
+    font-size: 18px;
+  }
+  .main__text-garant {
+    font-size: 18px;
+  }
+  .main__img img {
+    width: 100px;
+  }
+  .project__item {
+    margin-bottom: 60px;
+  }
+  .project__title {
+    font-size: 23px;
+    margin-bottom: 20px;
+  }
+  .project__name {
+    font-size: 20px;
+  }
+  .project__size,
+  .project__area,
+  .project__price {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .project__images-item img {
+    width: 300px;
+  }
+  .download img {
+    width: 160px;
+  }
+  .download__link a {
+    padding: 15px 22px;
+  }
+  .gallery__title {
+    font-size: 23px;
+  }
+  .gallery__text {
+    font-size: 18px;
+  }
+}
+@media (max-width: 345px) {
+  .project__images-item img {
+    width: 265px;
+  }
+  .footer__email {
+    font-size: 24px;
+  }
+}
+@media (max-width: 320px) {
+  .header {
+    height: 22vh;
+    padding-top: 5px;
+  }
+  .header__inner {
+    margin-left: 14px;
+  }
+  .main__img img {
+    width: 90px;
+  }
+  .main__img {
+    padding: 14px 0;
+  }
+  .project__title {
+    font-size: 22px;
+  }
+
+  .project__size,
+  .project__area,
+  .project__price .project__name {
+    font-size: 18px;
+  }
+  .download__link a {
+    padding: 12px 20px;
+    font-size: 12px;
+  }
+}
